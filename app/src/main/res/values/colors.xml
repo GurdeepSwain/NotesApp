@@ -1,0 +1,6 @@
+<resources>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="textColorPrimary">#333333</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="buttonColor">#FF6200EE</color>
+</resources>
